@@ -1,0 +1,12 @@
+[19/03/29 17:25:55]:  INFO     socket is listening
+[19/03/29 17:26:12]:  INFO     new Connection from: ('127.0.0.1', 65434)
+[19/03/29 17:26:12]:  INFO     new Connection from: ('127.0.0.1', 65435)
+[19/03/29 17:27:58]:  INFO     new Connection from: ('127.0.0.1', 65527)
+[19/03/29 17:28:16]:  INFO     new Connection from: ('127.0.0.1', 49169)
+[19/03/29 17:28:29]:  INFO     new Connection from: ('127.0.0.1', 49194)
+[19/03/29 17:28:48]:  INFO     new Connection from: ('127.0.0.1', 49213)
+[19/03/29 17:29:01]:  INFO     new Connection from: ('127.0.0.1', 49226)
+[19/03/29 17:29:21]:  INFO     new Connection from: ('127.0.0.1', 49242)
+[19/03/29 17:29:21]:  INFO     new Connection from: ('127.0.0.1', 49243)
+[19/03/29 17:29:21]:  INFO     new Connection from: ('127.0.0.1', 49244)
+[19/03/29 17:29:36]:  INFO     new Connection from: ('127.0.0.1', 49258)

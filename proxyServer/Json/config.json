@@ -1,5 +1,5 @@
 {
-  "port": 8080,
+  "port": 8088,
 
   "logging": {
     "enable": true,
@@ -8,7 +8,7 @@
 
   "caching": {
     "enable": true,
-	 "size": 200
+    "size": 200
   },
 
   "privacy": {
@@ -18,8 +18,7 @@
 
   "restriction": {
     "enable": true,
-    "targets": [
-      {
+    "targets": [{
         "URL": "sib.ir",
         "notify": "true"
       },
@@ -29,16 +28,14 @@
       }
     ]
   },
-  
-	"accounting":{
-		"users":[
-			{
-				"IP": "127.0.0.1",
-				"volume":"80000000" 
-			}
-		]
-	},
-	
+
+  "accounting": {
+    "users": [{
+      "IP": "127.0.0.1",
+      "volume": "80000000"
+    }]
+  },
+
   "HTTPInjection": {
     "enable": true,
     "post": {
