@@ -1,0 +1,197 @@
+[19/04/06 22:52:18]:  INFO     socket is ready to listening
+[19/04/06 22:52:18]:  INFO     new Connection from: ('127.0.0.1', 17727)
+[19/04/06 22:52:18]:  INFO     * * * * received data from bowser * * * *
+[19/04/06 22:52:18]:  INFO     CONNECT clients4.google.com:443 HTTP/1.0
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: CN Proxy Server (v1.0.0)
+
+
+[19/04/06 22:52:18]:  WARNING  * * * * Send data To Server * * * *
+[19/04/06 22:52:18]:  WARNING  CONNECT clients4.google.com:443 HTTP/1.0
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: CN Proxy Server (v1.0.0)
+
+
+[19/04/06 22:52:18]:  INFO     new Connection from: ('127.0.0.1', 17724)
+[19/04/06 22:52:18]:  CRITICAL * * * * received data from server * * * *
+[19/04/06 22:52:18]:  CRITICAL 
+[19/04/06 22:52:19]:  INFO     new Connection from: ('127.0.0.1', 17733)
+[19/04/06 22:52:19]:  INFO     * * * * received data from bowser * * * *
+[19/04/06 22:52:19]:  INFO     CONNECT ssl.gstatic.com:443 HTTP/1.0
+Host: ssl.gstatic.com:443
+Proxy-Connection: keep-alive
+User-Agent: CN Proxy Server (v1.0.0)
+
+
+[19/04/06 22:52:19]:  WARNING  * * * * Send data To Server * * * *
+[19/04/06 22:52:19]:  WARNING  CONNECT ssl.gstatic.com:443 HTTP/1.0
+Host: ssl.gstatic.com:443
+Proxy-Connection: keep-alive
+User-Agent: CN Proxy Server (v1.0.0)
+
+
+[19/04/06 22:52:20]:  INFO     new Connection from: ('127.0.0.1', 17735)
+[19/04/06 22:52:20]:  INFO     new Connection from: ('127.0.0.1', 17736)
+[19/04/06 22:52:20]:  INFO     new Connection from: ('127.0.0.1', 17737)
+[19/04/06 22:52:20]:  INFO     * * * * received data from bowser * * * *
+[19/04/06 22:52:20]:  INFO     GET http://178.252.152.26/login HTTP/1.0
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.7,fa;q=0.3
+Upgrade-Insecure-Requests: 1
+User-Agent: CN Proxy Server (v1.0.0)
+Accept-Encoding: gzip, deflate
+Host: 178.252.152.26
+Proxy-Connection: Keep-Alive
+Cookie: XSRF-TOKEN=eyJpdiI6IkxBVlRyZjZkbnRiNlloZmtkSFhWZ3c9PSIsInZhbHVlIjoidkZGQSszYkVoYlwvRENrZlhFdFJFN3FLWG9HMmtZS1ZjT25SRUhZa0dHUE53Y2xnc3A0QXU2bWw3T2s4bWEyRHkiLCJtYWMiOiI4OTA2MDJlZDNjZTMwZTFiMmM2NjY1NDE1MDJiYTAyZDI2ZDdiYTk4ZjQ1YWM3NDg4NjNhOThhZjdmMmU0MDFlIn0%3D; laravel_session=eyJpdiI6IkRZWGh3Y3E3XC9qQ1NONDhjWTN1R1hRPT0iLCJ2YWx1ZSI6ImkzTUY3NkJEdTU2ejE3aGZyMW1FVUdxU1h4VEFZcXFUUEJaUHlhZHBualg3WWpZRlwvNnpFWkJiMHhmbWdQOFpVIiwibWFjIjoiZjNkZDdkZjFiZTMwZDFjZTI0NzJiZTIyOTdlMzhhMzYxOTdiNDZmODUxMDcyMmNjYzZlMWVlZjMyMjMwNjk1ZiJ9
+
+
+[19/04/06 22:52:20]:  WARNING  * * * * Send data To Server * * * *
+[19/04/06 22:52:20]:  WARNING  GET http://178.252.152.26/login HTTP/1.0
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.7,fa;q=0.3
+Upgrade-Insecure-Requests: 1
+User-Agent: CN Proxy Server (v1.0.0)
+Accept-Encoding: gzip, deflate
+Host: 178.252.152.26
+Proxy-Connection: Keep-Alive
+Cookie: XSRF-TOKEN=eyJpdiI6IkxBVlRyZjZkbnRiNlloZmtkSFhWZ3c9PSIsInZhbHVlIjoidkZGQSszYkVoYlwvRENrZlhFdFJFN3FLWG9HMmtZS1ZjT25SRUhZa0dHUE53Y2xnc3A0QXU2bWw3T2s4bWEyRHkiLCJtYWMiOiI4OTA2MDJlZDNjZTMwZTFiMmM2NjY1NDE1MDJiYTAyZDI2ZDdiYTk4ZjQ1YWM3NDg4NjNhOThhZjdmMmU0MDFlIn0%3D; laravel_session=eyJpdiI6IkRZWGh3Y3E3XC9qQ1NONDhjWTN1R1hRPT0iLCJ2YWx1ZSI6ImkzTUY3NkJEdTU2ejE3aGZyMW1FVUdxU1h4VEFZcXFUUEJaUHlhZHBualg3WWpZRlwvNnpFWkJiMHhmbWdQOFpVIiwibWFjIjoiZjNkZDdkZjFiZTMwZDFjZTI0NzJiZTIyOTdlMzhhMzYxOTdiNDZmODUxMDcyMmNjYzZlMWVlZjMyMjMwNjk1ZiJ9
+
+
+[19/04/06 22:52:20]:  CRITICAL * * * * received data from server * * * *
+[19/04/06 22:52:20]:  CRITICAL 
+[19/04/06 22:52:20]:  CRITICAL * * * * received data from server * * * *
+[19/04/06 22:52:20]:  CRITICAL HTTP/1.1 200 OK
+Date: Sat, 06 Apr 2019 18:23:28 GMT
+Server: Apache/2.4.33 (Win64) PHP/7.1.16
+X-Powered-By: PHP/7.1.16
+Cache-Control: no-cache, private
+Set-Cookie: XSRF-TOKEN=eyJpdiI6Imd2cjRobENhNUpvMkZ5ME5neWVZcFE9PSIsInZhbHVlIjoiNHZcL2tJeHRMSW5hTzhYVW9Zdld2VlNtdzgrNkNFZ296YzNnaFdIZ2ZCTHJwMzMrQTRGTjc4WVlhS09KSTl1MFUiLCJtYWMiOiI2N2E1NmQwOGZlYzkwZmY0ZTAzNmEwZmMyNGFhNjg0NDNkODgwZmYwYmFjMWM4ZDBjM2Q1Mzk0YjU4NDkzMDI2In0%3D; expires=Sat, 06-Apr-2019 20:23:28 GMT; Max-Age=7200; path=/
+Set-Cookie: laravel_session=eyJpdiI6IjFPaDJwSU01U0R6OVpYaEt1bXdQWFE9PSIsInZhbHVlIjoiVWVxTDN3WXB1ZmZwNDZPNWtsTTV1MnREOEh6SjVwVXZsN1B2SzMySisyKzhFSSt0YjNsTlBlbmdhSWhWZStnMiIsIm1hYyI6Ijg5ZWRmZjg3OWJmNzBjZmM4ZDBmZTc2NzU0YzU3OTFlZWM1YjNmZDM5ZTM2Yzc2MDJhNjIxYWQ2NmExYWVkNGEifQ%3D%3D; expires=Sat, 06-Apr-2019 20:23:28 GMT; Max-Age=7200; path=/; httponly
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+81e1
+
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="csrf-token" content="B0nRnFmWo6g3FJdmOwipAjuNZz0oW8ExKx9j5Pzz">
+<link rel="stylesheet" href="css/bootstrap/3.3.7/css/bootstrap.min.css"><!-- bootstrap -->
+<link rel="stylesheet" href="css/bootstrap-rtl/3.3.4/css/bootstrap-rtl.min.css"><!-- rtl-bootstrap -->
+<link rel="stylesheet" href="css/custom/partials/basic.css">
+<link rel="stylesheet" href="css/custom/home/login/loginMain.css">
+
+<script type="text/javascript" src="js/jquery/3.2.1/jquery.min.js"></script><!-- jquery 
+[19/04/06 22:52:20]:  CRITICAL * * * * received data from server * * * *
+[19/04/06 22:52:20]:  CRITICAL * * * * received data from server * * * *
+[19/04/06 22:52:20]:  CRITICAL * * * * received data from server * * * *
+[19/04/06 22:52:20]:  CRITICAL * * * * received data from server * * * *
+[19/04/06 22:52:20]:  CRITICAL * * * * received data from server * * * *
+[19/04/06 22:52:20]:  CRITICAL * * * * received data from server * * * *
+[19/04/06 22:52:20]:  CRITICAL on"}), "right");
+phpdebugbar.addTab("messages", new PhpDebugBar.DebugBar.Tab({"icon":"list-alt","title":"Messages", "widget": new PhpDebugBar.Widgets.MessagesWidget()}));
+phpdebugbar.addIndicator("time", new PhpDebugBar.DebugBar.Indicator({"icon":"clock-o","tooltip":"Request Duration"}), "right");
+phpdebugbar.addTab("timeline", new PhpDebugBar.DebugBar.Tab({"icon":"tasks","title":"Timeline", "widget": new PhpDebugBar.Widgets.TimelineWidget()}));
+phpdebugbar.addIndicator("memory", new PhpDebugBar.DebugBar.Indicator({"icon":"cogs","tooltip":"Memory Usage"}), "right");
+phpdebugbar.addTab("exceptions", new PhpDebugBar.DebugBar.Tab({"icon":"bug","title":"Exceptions", "widget": new PhpDebugBar.Widgets.ExceptionsWidget()}));
+phpdebugbar.addTab("views", new PhpDebugBar.DebugBar.Tab({"icon":"leaf","title":"Views", "widget": new PhpDebugBar.Widgets.TemplatesWidget()}));
+phpdebugbar.addTab("route", new PhpDebugBar.DebugBar.Tab({"icon":"share","title":"Route", "widget": new PhpDebugBar.Widgets.VariableListWidget()}));
+phpdebugbar.addIndicator("currentroute", new PhpDebugBar.DebugBar.Indicator({"icon":"share","tooltip":"Route"}), "right");
+phpdebugbar.addTab("queries", new PhpDebugBar.DebugBar.Tab({"icon":"database","title":"Queries", "widget": new PhpDebugBar.Widgets.LaravelSQLQueriesWidget()}));
+phpdebugbar.addTab("emails", new PhpDebugBar.DebugBar.Tab({"icon":"inbox","title":"Mails", "widget": new PhpDebugBar.Widgets.MailsWidget()}));
+phpdebugbar.addTab("auth", new PhpDebugBar.DebugBar.Tab({"icon":"lock","title":"Auth", "widget": new PhpDebugBar.Widgets.VariableListWidget()}));
+phpdebugbar.addIndicator("auth.name", new PhpDebugBar.DebugBar.Indicator({"icon":"user","tooltip":"Auth status"}), "right");
+phpdebugbar.addTab("gate", new PhpDebugBar.DebugBar.Tab({"icon":"list-alt","title":"Gate", "widget": new PhpDebugBar.Widgets.MessagesWidget()}));
+phpdebugbar.addTab("session", new PhpDebugBar.DebugBar.Tab({"icon":"archive","title":"Session", "widget": new PhpDebugBar.Widgets.VariableListWidget()}));
+phpdebugbar.addTab("request", new PhpDebugBar.DebugBar.Tab({"icon":"tags","title":"Request", "widget": new PhpDebugBar.Widgets.VariableListWidget()}));
+phpdebugbar.setDataMap({
+"php_version": ["php.version", ],
+"messages": ["messages.messages", []],
+"messages:badge": ["messages.count", null],
+"time": ["time.duration_str", '0ms'],
+"timeline": ["time", {}],
+"memory": ["memory.peak_usage_str", '0B'],
+"exceptions": ["exceptions.exceptions", []],
+"exceptions:badge": ["exceptions.count", null],
+"views": ["views", []],
+"views:badge": ["views.nb_templates", 0],
+"route": ["route", {}],
+"currentroute": ["route.uri", ],
+"queries": ["queries", []],
+"queries:badge": ["queries.nb_statements", 0],
+"emails": ["swiftmailer_mails.mails", []],
+"emails:badge": ["swiftmailer_mails.count", null],
+"auth": ["auth.guards", {}],
+"auth.name": ["auth.names", ],
+"gate": ["gate.messages", []],
+"gate:badge": ["gate.count", null],
+"session": ["session", {}],
+"request": ["request", {}]
+});
+phpdebugbar.restoreState();
+phpdebugbar.ajaxHandler = new PhpDebugBar.AjaxHandler(phpdebugbar, undefined, true);
+phpdebugbar.ajaxHandler.bindToXHR();
+phpdebugbar.setOpenHandler(new PhpDebugBar.OpenHandler({"url":"http:\/\/178.252.152.26\/_debugbar\/open"}));
+phpdebugbar.addDataSet({"__meta":{"id":"X98a3c090c36075af6729a203c3cf3058","datetime":"2019-04-06 22:53:28","utime":1554575008.743264,"method":"GET","uri":"\/login","ip":"188.118.86.64"},"php":{"version":"7.1.16","interface":"apache2handler"},"messages":{"count":0,"messages":[]},"time":{"start":1554575008.528,"end":1554575008.743307,"duration":0.21530699729919434,"duration_str":"215.31ms","measures":[{"label":"Booting","start":1554575008.528,"relative_start":0,"end":1554575008.673599,"relative_end":1554575008.673599,"duration":0.1455988883972168,"duration_str":"145.6ms","params":[],"collector":null},{"label":"Application","start":1554575008.676182,"relative_start":0.14818191528320312,"end":1554575008.743313,"relative_end":5.9604644775390625e-6,"duration":0.06713104248046875,"duration_str":"67.13ms","params":[],"collector":null}]},"m
+[19/04/06 22:52:20]:  CRITICAL * * * * received data from server * * * *
+[19/04/06 22:52:20]:  CRITICAL emory":{"peak_usage":15361352,"peak_usage_str":"14.65MB"},"exceptions":{"count":0,"exceptions":[]},"views":{"nb_templates":1,"templates":[{"name":"auth.login (\\resources\\views\\auth\\login.blade.php)","param_count":0,"params":[],"type":"blade"}]},"route":{"uri":"GET login","middleware":"web","controller":"App\\Http\\Controllers\\Auth\\LoginController@showLoginForm","namespace":"App\\Http\\Controllers","prefix":null,"where":[],"as":"login","file":"\\app\\Http\\Controllers\\Auth\\LoginController.php:43-47"},"queries":{"nb_statements":0,"nb_failed_statements":0,"accumulated_duration":0,"accumulated_duration_str":"0\u03bcs","statements":[]},"swiftmailer_mails":{"count":0,"mails":[]},"auth":{"guards":{"web":"array:2 [\n  \"name\" => \"Guest\"\n  \"user\" => array:1 [\n    \"guest\" => true\n  ]\n]","api":"array:2 [\n  \"name\" => \"Guest\"\n  \"user\" => array:1 [\n    \"guest\" => true\n  ]\n]"},"names":""},"gate":{"count":0,"messages":[]},"session":{"_token":"B0nRnFmWo6g3FJdmOwipAjuNZz0oW8ExKx9j5Pzz","_flash":"array:2 [\n  \"new\" => []\n  \"old\" => []\n]","_previous":"array:1 [\n  \"url\" => \"http:\/\/178.252.152.26\/login\"\n]","PHPDEBUGBAR_STACK_DATA":"[]"},"request":{"format":"html","content_type":"text\/html; charset=UTF-8","status_text":"OK","status_code":"200","request_query":"[]","request_request":"[]","request_headers":"array:9 [\n  \"cache-control\" => array:1 [\n    0 => \"max-age=0\"\n  ]\n  \"accept\" => array:1 [\n    0 => \"text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8\"\n  ]\n  \"accept-language\" => array:1 [\n    0 => \"en-US,en;q=0.7,fa;q=0.3\"\n  ]\n  \"upgrade-insecure-requests\" => array:1 [\n    0 => \"1\"\n  ]\n  \"user-agent\" => array:1 [\n    0 => \"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/64.0.3282.140 Safari\/537.36 Edge\/18.17763\"\n  ]\n  \"accept-encoding\" => array:1 [\n    0 => \"gzip, deflate\"\n  ]\n  \"host\" => array:1 [\n    0 => \"178.252.152.26\"\n  ]\n  \"proxy-connection\" => array:1 [\n    0 => \"Keep-Alive\"\n  ]\n  \"cookie\" => array:1 [\n    0 => \"XSRF-TOKEN=eyJpdiI6IkxBVlRyZjZkbnRiNlloZmtkSFhWZ3c9PSIsInZhbHVlIjoidkZGQSszYkVoYlwvRENrZlhFdFJFN3FLWG9HMmtZS1ZjT25SRUhZa0dHUE53Y2xnc3A0QXU2bWw3T2s4bWEyRHkiLCJtYWMiOiI4OTA2MDJlZDNjZTMwZTFiMmM2NjY1NDE1MDJiYTAyZDI2ZDdiYTk4ZjQ1YWM3NDg4NjNhOThhZjdmMmU0MDFlIn0%3D; laravel_session=eyJpdiI6IkRZWGh3Y3E3XC9qQ1NONDhjWTN1R1hRPT0iLCJ2YWx1ZSI6ImkzTUY3NkJEdTU2ejE3aGZyMW1FVUdxU1h4VEFZcXFUUEJaUHlhZHBualg3WWpZRlwvNnpFWkJiMHhmbWdQOFpVIiwibWFjIjoiZjNkZDdkZjFiZTMwZDFjZTI0NzJiZTIyOTdlMzhhMzYxOTdiNDZmODUxMDcyMmNjYzZlMWVlZjMyMjMwNjk1ZiJ9\"\n  ]\n]","request_server":"array:38 [\n  \"REDIRECT_STATUS\" => \"200\"\n  \"HTTP_CACHE_CONTROL\" => \"max-age=0\"\n  \"HTTP_ACCEPT\" => \"text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8\"\n  \"HTTP_ACCEPT_LANGUAGE\" => \"en-US,en;q=0.7,fa;q=0.3\"\n  \"HTTP_UPGRADE_INSECURE_REQUESTS\" => \"1\"\n  \"HTTP_USER_AGENT\" => \"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/64.0.3282.140 Safari\/537.36 Edge\/18.17763\"\n  \"HTTP_ACCEPT_ENCODING\" => \"gzip, deflate\"\n  \"HTTP_HOST\" => \"178.252.152.26\"\n  \"HTTP_PROXY_CONNECTION\" => \"Keep-Alive\"\n  \"HTTP_COOKIE\" => \"XSRF-TOKEN=eyJpdiI6IkxBVlRyZjZkbnRiNlloZmtkSFhWZ3c9PSIsInZhbHVlIjoidkZGQSszYkVoYlwvRENrZlhFdFJFN3FLWG9HMmtZS1ZjT25SRUhZa0dHUE53Y2xnc3A0QXU2bWw3T2s4bWEyRHkiLCJtYWMiOiI4OTA2MDJlZDNjZTMwZTFiMmM2NjY1NDE1MDJiYTAyZDI2ZDdiYTk4ZjQ1YWM3NDg4NjNhOThhZjdmMmU0MDFlIn0%3D; laravel_session=eyJpdiI6IkRZWGh3Y3E3XC9qQ1NONDhjWTN1R1hRPT0iLCJ2YWx1ZSI6ImkzTUY3NkJEdTU2ejE3aGZyMW1FVUdxU1h4VEFZcXFUUEJaUHlhZHBualg3WWpZRlwvNnpFWkJiMHhmbWdQOFpVIiwibWFjIjoiZjNkZDdkZjFiZTMwZDFjZTI0NzJiZTIyOTdlMzhhMzYxOTdiNDZmODUxMDcyMmNjYzZlMWVlZjMyMjMwNjk1ZiJ9\"\n  \"PATH\" => \"C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\ProgramData\\ComposerSetup\\bin;C:\\Program Files (x86)\\Microsoft SQL Server\\Cl
+[19/04/06 22:52:20]:  CRITICAL * * * * received data from server * * * *
+[19/04/06 22:52:20]:  CRITICAL ient SDK\\ODBC\\130\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\140\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\140\\DTS\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\140\\Tools\\Binn\\ManagementStudio\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\130\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\140\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\140\\DTS\\Binn\\;C:\\wamp64-1\\bin\\php\\php7.2.4;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps\"\n  \"SystemRoot\" => \"C:\\Windows\"\n  \"COMSPEC\" => \"C:\\Windows\\system32\\cmd.exe\"\n  \"PATHEXT\" => \".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC\"\n  \"WINDIR\" => \"C:\\Windows\"\n  \"SERVER_SIGNATURE\" => \"<address>Apache\/2.4.33 (Win64) PHP\/7.1.16 Server at 178.252.152.26 Port 80<\/address>\\n\"\n  \"SERVER_SOFTWARE\" => \"Apache\/2.4.33 (Win64) PHP\/7.1.16\"\n  \"SERVER_NAME\" => \"178.252.152.26\"\n  \"SERVER_ADDR\" => \"178.252.152.26\"\n  \"SERVER_PORT\" => \"80\"\n  \"REMOTE_ADDR\" => \"188.118.86.64\"\n  \"DOCUMENT_ROOT\" => \"C:\/wamp64-1\/www\/pos\/public\"\n  \"REQUEST_SCHEME\" => \"http\"\n  \"CONTEXT_PREFIX\" => \"\"\n  \"CONTEXT_DOCUMENT_ROOT\" => \"C:\/wamp64-1\/www\/pos\/public\"\n  \"SERVER_ADMIN\" => \"wampserver@wampserver.invalid\"\n  \"SCRIPT_FILENAME\" => \"C:\/wamp64-1\/www\/pos\/public\/index.php\"\n  \"REMOTE_PORT\" => \"17738\"\n  \"REDIRECT_URL\" => \"\/login\"\n  \"GATEWAY_INTERFACE\" => \"CGI\/1.1\"\n  \"SERVER_PROTOCOL\" => \"HTTP\/1.1\"\n  \"REQUEST_METHOD\" => \"GET\"\n  \"QUERY_STRING\" => \"\"\n  \"REQUEST_URI\" => \"\/login\"\n  \"SCRIPT_NAME\" => \"\/index.php\"\n  \"PHP_SELF\" => \"\/index.php\"\n  \"REQUEST_TIME_FLOAT\" => 1554575008.528\n  \"REQUEST_TIME\" => 1554575008\n]","request_cookies":"array:2 [\n  \"XSRF-TOKEN\" => \"B0nRnFmWo6g3FJdmOwipAjuNZz0oW8ExKx9j5Pzz\"\n  \"laravel_session\" => \"OnN7nEQ86ig4W0QmR4k23BUIgeuLS0Dfr5s7WGCD\"\n]","response_headers":"array:5 [\n  \"cache-control\" => array:1 [\n    0 => \"no-cache, private\"\n  ]\n  \"date\" => array:1 [\n    0 => \"Sat, 06 Apr 2019 18:23:28 GMT\"\n  ]\n  \"content-type\" => array:1 [\n    0 => \"text\/html; charset=UTF-8\"\n  ]\n  \"set-cookie\" => array:2 [\n    0 => \"XSRF-TOKEN=eyJpdiI6Imd2cjRobENhNUpvMkZ5ME5neWVZcFE9PSIsInZhbHVlIjoiNHZcL2tJeHRMSW5hTzhYVW9Zdld2VlNtdzgrNkNFZ296YzNnaFdIZ2ZCTHJwMzMrQTRGTjc4WVlhS09KSTl1MFUiLCJtYWMiOiI2N2E1NmQwOGZlYzkwZmY0ZTAzNmEwZmMyNGFhNjg0NDNkODgwZmYwYmFjMWM4ZDBjM2Q1Mzk0YjU4NDkzMDI2In0%3D; expires=Sat, 06-Apr-2019 20:23:28 GMT; Max-Age=7200; path=\/\"\n    1 => \"laravel_session=eyJpdiI6IjFPaDJwSU01U0R6OVpYaEt1bXdQWFE9PSIsInZhbHVlIjoiVWVxTDN3WXB1ZmZwNDZPNWtsTTV1MnREOEh6SjVwVXZsN1B2SzMySisyKzhFSSt0YjNsTlBlbmdhSWhWZStnMiIsIm1hYyI6Ijg5ZWRmZjg3OWJmNzBjZmM4ZDBmZTc2NzU0YzU3OTFlZWM1YjNmZDM5ZTM2Yzc2MDJhNjIxYWQ2NmExYWVkNGEifQ%3D%3D; expires=Sat, 06-Apr-2019 20:23:28 GMT; Max-Age=7200; path=\/; httponly\"\n  ]\n  \"Set-Cookie\" => array:2 [\n    0 => \"XSRF-TOKEN=eyJpdiI6Imd2cjRobENhNUpvMkZ5ME5neWVZcFE9PSIsInZhbHVlIjoiNHZcL2tJeHRMSW5hTzhYVW9Zdld2VlNtdzgrNkNFZ296YzNnaFdIZ2ZCTHJwMzMrQTRGTjc4WVlhS09KSTl1MFUiLCJtYWMiOiI2N2E1NmQwOGZlYzkwZmY0ZTAzNmEwZmMyNGFhNjg0NDNkODgwZmYwYmFjMWM4ZDBjM2Q1Mzk0YjU4NDkzMDI2In0%3D; expires=Sat, 06-Apr-2019 20:23:28 GMT; path=\/\"\n    1 => \"laravel_session=eyJpdiI6IjFPaDJwSU01U0R6OVpYaEt1bXdQWFE9PSIsInZhbHVlIjoiVWVxTDN3WXB1ZmZwNDZPNWtsTTV1MnREOEh6SjVwVXZsN1B2SzMySisyKzhFSSt0YjNsTlBlbmdhSWhWZStnMiIsIm1hYyI6Ijg5ZWRmZjg3OWJmNzBjZmM4ZDBmZTc2NzU0YzU3OTFlZWM1YjNmZDM5ZTM2Yzc2MDJhNjIxYWQ2NmExYWVkNGEifQ%3D%3D; expires=Sat, 06-Apr-2019 20:23:28 GMT; path=\/; httponly\"\n  ]\n]","path_info":"\/login","session_attributes":"array:4 [\n  \"_token\" => \"B0nRnFmWo6g3FJdmOwipAjuNZz0oW8ExKx9j5Pzz\"\n  \"_flash\" => array:2 [\n    \"new\" => []\n    \"old\" => []\n  ]\n  \"_previous\" => array:1 [\n    \"url\" => \"http:\/\/178.252.152.26\/login\"\n  ]\n  \"PHPDEBUGBAR_STACK_DATA\" => []\n]"}}, "X98a3c090c36075af6729a203c3cf3058");
+
+</script>
+</body>
+</html>
+
+0
+
+
+[19/04/06 22:52:20]:  INFO     new Connection from: ('127.0.0.1', 17739)
+[19/04/06 22:52:20]:  INFO     * * * * received data from bowser * * * *
+[19/04/06 22:52:20]:  INFO     CONNECT nav.smartscreen.microsoft.com:443 HTTP/1.0
+Host: nav.smartscreen.microsoft.com:443
+Content-Length: 0
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+
+
+[19/04/06 22:52:20]:  WARNING  * * * * Send data To Server * * * *
+[19/04/06 22:52:20]:  WARNING  CONNECT nav.smartscreen.microsoft.com:443 HTTP/1.0
+Host: nav.smartscreen.microsoft.com:443
+Content-Length: 0
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+
+
+[19/04/06 22:52:20]:  INFO     new Connection from: ('127.0.0.1', 17741)
+[19/04/06 22:52:20]:  INFO     * * * * received data from bowser * * * *
+[19/04/06 22:52:20]:  INFO     CONNECT api.wakatime.com:443 HTTP/1.0
+
+
+[19/04/06 22:52:20]:  WARNING  * * * * Send data To Server * * * *
+[19/04/06 22:52:20]:  WARNING  CONNECT api.wakatime.com:443 HTTP/1.0
+
+
+[19/04/06 22:52:21]:  CRITICAL * * * * received data from server * * * *
+[19/04/06 22:52:21]:  CRITICAL HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Sat, 06 Apr 2019 18:22:21 GMT
+Content-Type: text/html
+Content-Length: 166
+Connection: close
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+[19/04/06 22:52:21]:  CRITICAL * * * * received data from server * * * *
+[19/04/06 22:52:21]:  CRITICAL 
+[19/04/06 22:52:25]:  CRITICAL * * * * received data from server * * * *
+[19/04/06 22:52:25]:  CRITICAL 
